@@ -1,0 +1,4 @@
+dn: ou=Books,dc=ltacademy,dc=com
+objectClass: organizationalUnit
+ou: Books
+description:  Book Information

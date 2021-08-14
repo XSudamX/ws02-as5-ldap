@@ -1,0 +1,53 @@
+dn: commonName=Data Smart,ou=Books,dc=ltacademy,dc=com
+commonName: Data Smart
+objectclass: document
+documentIdentifier: 1001
+documentPublisher: Wiley
+
+dn: commonName=Superfreakonomics,ou=Books,dc=ltacademy,dc=com
+commonName: Superfreakonomics
+objectclass: document
+documentIdentifier: 1003
+documentPublisher: HarperCollins
+
+dn: commonName=How to Think Like Sherlock Holmes,ou=Books,dc=ltacademy,dc=com
+commonName: How to Think Like Sherlock Holmes
+objectclass: document
+documentIdentifier: 1009
+documentPublisher: CRC
+
+dn: commonName=Orientalism,ou=Books,dc=ltacademy,dc=com
+commonName: Orientalism
+objectclass: document
+documentIdentifier: 1004
+documentPublisher: Penguin
+
+dn: commonName=Nature of Statistical Learning Theory\, The,ou=Books,dc=ltacademy,dc=com
+commonName: Nature of Statistical Learning Theory, The
+objectclass: document
+documentIdentifier: 1005
+documentPublisher: Springer
+
+dn: commonName=Image Processing & Mathematical Morphology,ou=Books,dc=ltacademy,dc=com
+commonName: Image Processing & Mathematical Morphology
+objectclass: document
+documentIdentifier: 1008
+documentPublisher: CRC
+
+dn: commonName=Drunkard's Walk\, The,ou=Books,dc=ltacademy,dc=com
+commonName: Drunkard's Walk, The
+objectclass: document
+documentIdentifier: 1007
+documentPublisher: Penguin
+
+dn: commonName=God Created the Integers,ou=Books,dc=ltacademy,dc=com
+commonName: God Created the Integers
+objectclass: document
+documentIdentifier: 1002
+documentPublisher: Penguin
+
+dn: commonName=Integration of the Indian States,ou=Books,dc=ltacademy,dc=com
+commonName: Integration of the Indian States
+objectclass: document
+documentIdentifier: 1006
+documentPublisher: Orient Blackswan

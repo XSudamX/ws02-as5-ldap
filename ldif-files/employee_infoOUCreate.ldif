@@ -1,0 +1,4 @@
+dn: ou=employee_info,dc=ltacademy,dc=com
+objectClass: organizationalUnit
+ou: employee_info
+description:  Stores all employees and their information
