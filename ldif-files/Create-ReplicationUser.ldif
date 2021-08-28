@@ -1,0 +1,6 @@
+dn: uid=rpuser,ou=System,dc=ltacademy,dc=com
+objectClass: simpleSecurityObject
+objectClass: account
+uid: rpuser
+description: User used for LDAP Replication Slave
+userPassword: ZmluYW5jZWFwcA==

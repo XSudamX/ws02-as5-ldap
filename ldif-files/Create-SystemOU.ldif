@@ -1,0 +1,4 @@
+dn: ou=System,dc=ltacademy,dc=com
+objectClass: organizationalUnit
+ou: System
+description:  For storing system objects and service accounts

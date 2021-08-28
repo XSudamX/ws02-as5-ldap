@@ -3,3 +3,5 @@ ldapadd -D "cn=admin,dc=ltacademy,dc=com" -h 127.0.0.1 -w'wso2' -x -f BooksOUcre
 ldapadd -D cn=admin,dc=ltacademy,dc=com -h 127.0.0.1 -w'wso2' -x -f BooksData.ldif
 ldapadd -D cn=admin,dc=ltacademy,dc=com -h 127.0.0.1 -w'wso2' -x -f employee_infoOUCreate.ldif
 ldapadd -D cn=admin,dc=ltacademy,dc=com -h 127.0.0.1 -w'wso2' -x -f employee_infoData.ldif
+ldapadd -D cn=admin,dc=ltacademy,dc=com -h 127.0.0.1 -w'wso2' -x -f SystemOUCreate.ldif
+ldapadd -D cn=admin,dc=ltacademy,dc=com -h 127.0.0.1 -w'wso2' -x -f Create-ReplicationUser.ldif
